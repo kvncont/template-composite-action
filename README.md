@@ -4,7 +4,7 @@ This is a composite action for GitHub Actions. Composite actions allow you to co
 
 ## Inputs
 
-- `who-to-greet`: (Required) Who to greet. Default is `World`.
+- `who-to-greet`: Who to greet. Default is `World`.
 
 ## Outputs
 
